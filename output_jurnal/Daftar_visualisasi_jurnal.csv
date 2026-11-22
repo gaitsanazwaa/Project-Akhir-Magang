@@ -1,0 +1,15 @@
+﻿nomor,judul_yang_direkomendasikan,file,format
+Gambar 1,"Jumlah Kegiatan Usaha Unik Kota Surabaya, 2021-2025",Gambar_01_jumlah_kegiatan_tahunan.png,"PNG, 300 dpi"
+Gambar 2,Lima Kelompok KBLI Tertinggi dan Terendah menurut Proyek-Tahun,Gambar_02_top_bottom_kbli.png,"PNG, 300 dpi"
+Gambar 3,Lima Kecamatan Tertinggi dan Terendah menurut Proyek-Tahun,Gambar_03_top_bottom_kecamatan.png,"PNG, 300 dpi"
+Gambar 4,Sepuluh Kenaikan dan Penurunan Absolut Terbesar menurut KBLI,Gambar_04_pertumbuhan_absolut_sektor.png,"PNG, 300 dpi"
+Gambar 5,Perubahan Absolut Jumlah Kegiatan Usaha per Kecamatan,Gambar_05_pertumbuhan_absolut_kecamatan.png,"PNG, 300 dpi"
+Gambar 6,Perkembangan Tahunan Kelompok KBLI dengan Kenaikan Absolut Terbesar,Gambar_06_tren_sektor_menonjol.png,"PNG, 300 dpi"
+Gambar 7,Jumlah Kombinasi Kecamatan-KBLI menurut Kategori LQ,Gambar_07_kategori_LQ_tahunan.png,"PNG, 300 dpi"
+Gambar 8,Lima Kelompok KBLI dengan Rata-Rata LQ Tertinggi pada 2025,Gambar_08_rerata_LQ_top5.png,"PNG, 300 dpi"
+Gambar 9,Perkembangan Rata-Rata LQ Kelompok dengan Perubahan Terbesar,Gambar_09_perubahan_rerata_LQ.png,"PNG, 300 dpi"
+Gambar 10,"Matriks Konsentrasi Rata-Rata LQ dan CAGR KBLI, 2021-2025",Gambar_10_scatter_LQ_CAGR.png,"PNG, 300 dpi"
+Peta 1,Peta interaktif LQ per kecamatan; filter tahun dan KBLI bernama,Peta_01_LQ_interaktif.html,HTML interaktif
+Peta 2,Peta interaktif pertumbuhan YoY per kecamatan; filter tahun,Peta_02_pertumbuhan_interaktif.html,HTML interaktif
+Gambar 11,Peta LQ KBLI 52 per kecamatan 2025,../output_visualisasi/Peta_LQ_KBLI52_2025.png,"PNG, 300 dpi"
+Gambar 12,Peta pertumbuhan YoY per kecamatan 2022,../output_visualisasi/Peta_Pertumbuhan_2022.png,"PNG, 300 dpi"

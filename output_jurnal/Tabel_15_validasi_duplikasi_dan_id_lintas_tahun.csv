@@ -1,0 +1,6 @@
+﻿tahun,jumlah_baris,jumlah_id_proyek_unik,baris_berulang_dalam_kombinasi_id_tahun_kbli_kecamatan,id_dengan_lebih_dari_satu_kombinasi_kbli_kecamatan,kelebihan_kombinasi_kbli_kecamatan_dibanding_id,id_dengan_lebih_dari_satu_kbli,id_dengan_lebih_dari_satu_kecamatan,id_yang_muncul_pada_tahun_lain,jumlah_agregat_lq_kecamatan_kbli,selisih_agregat_lq_dan_id_kota
+2021,30253,30252,1,0,0,0,0,1,30252,0
+2022,114985,114972,13,0,0,0,0,23,114972,0
+2023,129057,129053,4,0,0,0,0,0,129053,0
+2024,137455,137449,5,1,1,0,1,0,137450,1
+2025,108327,108324,3,0,0,0,0,24,108324,0

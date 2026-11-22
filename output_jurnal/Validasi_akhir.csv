@@ -1,0 +1,20 @@
+﻿pemeriksaan,kriteria,hasil
+Sumber kegiatan,output/data_clean.csv; tidak dilakukan cleaning ulang,520077
+Tahun tersedia,2021-2025,"2021, 2022, 2023, 2024, 2025"
+ID proyek kosong,0,0
+Jumlah kecamatan data,31,31
+Kesesuaian nama kecamatan GeoJSON,31/31,31/31
+Cakupan data peta LQ,31 kecamatan menerima data,Lulus; nama dicocokkan setelah normalisasi
+Cakupan data peta pertumbuhan,31 kecamatan menerima data,Lulus; nama dicocokkan setelah normalisasi
+ID tercatat pada lebih dari satu tahun,Dihitung dari Id Proyek berbeda,24
+ID lintas tahun terhitung pada hitungan tahunan,24,Ya; tiap ID dihitung satu kali di setiap tahun kemunculannya
+ID unik lintas seluruh periode,Jumlah Id Proyek berbeda di 2021-2025,520026
+Jumlah baris sama dengan total tahunan,520077,520077
+Jumlah hasil LQ tersimpan,10280,10280
+Kombinasi LQ positif sama dengan hasil tersimpan,Semua cocok,True
+Nilai LQ tersimpan cocok setelah pembulatan 4 desimal,Semua cocok,True
+Kombinasi panel LQ penuh,12865,12865
+YoY 2021 sektor dan kecamatan,NaN,NaN
+Rumus CAGR,((jumlah 2025 / jumlah 2021)^(1/4)-1)*100,Diterapkan; 4 interval tahunan
+Rata-rata LQ gabungan,Rata-rata 31 kecamatan per tahun; rata-rata 5 tahun,Periode lengkap wajib
+DLQ,Tidak digunakan,Tidak dibuat

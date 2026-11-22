@@ -1,0 +1,84 @@
+﻿KBLI_2digit,2021,2022,2023,2024,2025,nama_kategori_kbli_2digit,jumlah_tahun_lq_tersedia,rata_rata_lq_2021_2025,perubahan_rata_rata_lq_2021_2025,status_lq
+01,0.835172,0.960113,0.998339,0.979236,1.035404,"Pertanian Tanaman, Peternakan, Perburuan, dan Kegiatan YBDI",5,0.961653,0.200232,Lengkap
+02,1.024105,0.996401,1.028916,1.048277,0.989483,Kehutanan dan Penebangan Kayu,5,1.017436,-0.034622,Lengkap
+03,0.857374,1.103401,1.163914,1.008208,1.030710,Perikanan,5,1.032721,0.173336,Lengkap
+05,0.935113,0.894885,1.087550,1.293540,0.915429,Pertambangan Batu Bara dan Lignit,5,1.025303,-0.019684,Lengkap
+06,1.179264,0.973032,0.954538,1.004965,0.815859,"Pertambangan Minyak Bumi, Gas Alam, dan Panas Bumi",5,0.985531,-0.363406,Lengkap
+07,1.112527,0.813469,1.014073,1.098380,0.827323,Pertambangan Bijih Logam,5,0.973154,-0.285204,Lengkap
+08,0.903214,1.048792,1.128220,1.195395,0.831457,Pertambangan dan Penggalian Lainnya,5,1.021416,-0.071756,Lengkap
+09,0.880185,0.979331,1.024802,1.082278,1.039842,Aktivitas Jasa Penunjang Pertambangan,5,1.001288,0.159657,Lengkap
+10,1.053442,1.049620,0.988550,0.983765,0.996144,Industri Makanan,5,1.014304,-0.057299,Lengkap
+11,1.078697,1.049304,0.940225,0.985577,1.008185,Industri Minuman,5,1.012398,-0.070512,Lengkap
+12,0.877481,1.044706,1.129392,1.008469,0.830790,Industri Pengolahan Tembakau,5,0.978168,-0.046691,Lengkap
+13,0.991165,0.966287,0.954536,0.943202,1.002523,Industri Tekstil,5,0.971543,0.011358,Lengkap
+14,1.084094,1.017048,1.008741,0.985367,1.017894,Industri Pakaian Jadi,5,1.022629,-0.066200,Lengkap
+15,0.978482,0.960485,0.961373,1.009732,0.989305,"Industri Kulit, Barang dari Kulit, dan Alas Kaki",5,0.979875,0.010824,Lengkap
+16,1.126980,1.024417,1.145661,1.030944,1.081084,"Industri Kayu dan Barang dari Kayu dan Gabus (Tidak Termasuk Furnitur), serta Barang Anyaman",5,1.081817,-0.045896,Lengkap
+17,1.189558,1.016573,0.946554,1.045474,1.032006,Industri Kertas dan Barang dari Kertas,5,1.046033,-0.157551,Lengkap
+18,1.010691,0.977600,0.946759,0.994405,0.979119,Industri Pencetakan dan Reproduksi Media Rekaman,5,0.981715,-0.031572,Lengkap
+19,1.139284,1.161476,1.094638,1.136305,0.967250,Industri Produk dari Batu Bara dan Pengilangan Minyak Bumi,5,1.099791,-0.172033,Lengkap
+20,1.044227,1.079644,1.027195,0.988149,1.010889,Industri Bahan Kimia dan Barang dari Bahan Kimia,5,1.030021,-0.033338,Lengkap
+21,1.113528,1.004389,1.061867,0.942683,0.906279,"Industri Farmasi, Produk Obat Kimia, dan Obat Tradisional",5,1.005749,-0.207249,Lengkap
+22,1.025096,1.158771,1.052314,0.968067,1.059283,"Industri Karet, Barang dari Karet dan Plastik",5,1.052706,0.034188,Lengkap
+23,1.028232,1.042944,0.960068,1.061546,1.049455,Industri Barang Galian Bukan Logam,5,1.028449,0.021223,Lengkap
+24,1.246045,1.166206,1.149459,1.096563,1.132048,Industri Logam Dasar,5,1.158064,-0.113997,Lengkap
+25,1.056932,1.069939,1.074740,1.063975,1.078288,"Industri Barang Logam, Bukan Mesin dan Peralatannya",5,1.068775,0.021356,Lengkap
+26,1.124597,0.934134,0.917818,0.988776,0.983162,"Industri Komputer, Barang Elektronik, dan Optik",5,0.989697,-0.141435,Lengkap
+27,0.890856,0.986600,0.936613,1.024897,1.039784,Industri Peralatan Listrik,5,0.975750,0.148928,Lengkap
+28,1.064751,1.002294,1.019578,1.043444,1.051391,Industri Mesin dan Perlengkapan YTDL,5,1.036292,-0.013360,Lengkap
+29,1.103242,1.051854,1.173577,1.085163,1.104897,"Industri Kendaraan Bermotor, Trailer, dan Semi Trailer",5,1.103747,0.001655,Lengkap
+30,0.935265,1.059581,1.111827,1.000543,0.979677,Industri Alat Angkutan Lainnya,5,1.017379,0.044412,Lengkap
+31,0.965142,1.051790,0.979249,1.067055,1.070909,Industri Furnitur,5,1.026829,0.105767,Lengkap
+32,1.113884,0.968727,0.996178,0.991478,0.937557,Industri Pengolahan Lainnya,5,1.001565,-0.176327,Lengkap
+33,0.941341,1.014059,1.011351,0.996073,1.021778,Reparasi dan Pemasangan Mesin dan Peralatan,5,0.996921,0.080437,Lengkap
+35,0.845113,0.969365,0.958633,0.971715,0.975528,"Pengadaan Listrik, Gas, Uap/Air Panas, dan Udara Dingin",5,0.944071,0.130415,Lengkap
+36,1.020970,0.982968,0.977724,1.008546,0.957533,Pengelolaan Air,5,0.989548,-0.063437,Lengkap
+37,0.957743,1.010386,1.014922,0.962945,0.908068,Pengelolaan Air Limbah,5,0.970813,-0.049676,Lengkap
+38,1.128585,1.060437,1.101870,1.028738,1.041231,"Pengumpulan, Pengolahan, dan Pembuangan Sampah; Daur Ulang",5,1.072172,-0.087354,Lengkap
+39,0.939489,1.175150,,,,Aktivitas Remediasi dan Pengelolaan Sampah Lainnya,2,,,Tidak lengkap
+41,0.865709,0.963476,0.971467,1.005643,0.973754,Konstruksi Gedung,5,0.956010,0.108045,Lengkap
+42,0.888183,0.969697,0.983880,1.015670,0.996752,Konstruksi Bangunan Sipil,5,0.970836,0.108568,Lengkap
+43,0.905447,0.961034,0.964079,1.024471,0.989493,Konstruksi Khusus,5,0.968905,0.084045,Lengkap
+45,0.983978,0.963637,0.985540,1.004801,0.996152,"Perdagangan, Reparasi, dan Perawatan Mobil dan Sepeda Motor",5,0.986822,0.012173,Lengkap
+46,1.010108,0.985464,1.023324,1.007695,0.991739,"Perdagangan Besar, Bukan Mobil dan Sepeda Motor",5,1.003666,-0.018370,Lengkap
+47,1.050485,1.030642,1.017952,1.005044,1.019244,"Perdagangan Eceran, Bukan Mobil dan Sepeda Motor",5,1.024674,-0.031241,Lengkap
+49,1.052304,1.030772,1.087663,1.065291,1.056146,Angkutan Darat dan Angkutan melalui Saluran Pipa,5,1.058435,0.003842,Lengkap
+50,1.022888,1.015564,1.151338,1.128540,1.113287,Angkutan Perairan,5,1.086323,0.090399,Lengkap
+51,1.161820,1.066294,1.169945,1.089795,1.310231,Angkutan Udara,5,1.159617,0.148411,Lengkap
+52,1.154740,1.057261,1.201924,1.129986,1.122681,Pergudangan dan Aktivitas Penunjang Angkutan,5,1.133318,-0.032059,Lengkap
+53,1.001491,0.989541,1.053631,1.077814,1.125991,Pos dan Kurir,5,1.049693,0.124501,Lengkap
+55,0.933402,0.943009,0.938889,0.964735,0.933754,Penyediaan Akomodasi,5,0.942758,0.000352,Lengkap
+56,0.948737,0.997678,0.981448,0.989146,0.993406,Penyediaan Makan Minum,5,0.982083,0.044669,Lengkap
+58,1.075672,0.951086,0.939029,0.978681,0.952109,Penerbitan,5,0.979315,-0.123563,Lengkap
+59,0.879742,0.929832,0.930445,1.073471,1.010057,"Produksi Gambar Bergerak, Video, dan Program Televisi; Perekaman Suara dan Penerbitan Musik",5,0.964709,0.130315,Lengkap
+60,1.135060,0.949053,1.024778,0.982892,0.941646,Aktivitas Penyiaran dan Pemrograman serta Distribusi Konten,5,1.006686,-0.193414,Lengkap
+61,0.953208,0.988648,0.973479,0.992463,1.012001,Telekomunikasi,5,0.983960,0.058794,Lengkap
+62,0.927692,0.927103,0.938417,0.992953,0.944688,"Pemrograman, Konsultasi Komputer, dan Kegiatan YBDI",5,0.946171,0.016996,Lengkap
+63,0.975203,0.979898,0.960483,1.012888,0.939282,Kegiatan Jasa Informasi,5,0.973551,-0.035922,Lengkap
+64,0.903639,0.955240,0.998217,0.989278,0.993186,"Jasa Keuangan, Bukan Asuransi dan Dana Pensiun",5,0.967912,0.089548,Lengkap
+65,1.166027,0.885835,0.933964,0.988089,1.021528,"Asuransi, Reasuransi, dan Dana Pensiun, Bukan Jaminan Sosial Wajib",5,0.999089,-0.144499,Lengkap
+66,0.957605,0.995328,0.934354,1.009129,0.993727,"Aktivitas Penunjang Jasa Keuangan, Asuransi, dan Dana Pensiun",5,0.978028,0.036122,Lengkap
+68,1.002438,0.960290,1.022477,1.038021,1.061998,Real Estat,5,1.017045,0.059561,Lengkap
+69,1.091684,0.926461,0.953504,1.052604,0.959609,Kegiatan Hukum dan Akuntansi,5,0.996772,-0.132075,Lengkap
+70,0.915031,0.934269,0.968850,1.003418,0.967092,Kegiatan Kantor Pusat dan Konsultasi Manajemen,5,0.957732,0.052061,Lengkap
+71,0.952021,0.954208,0.975535,1.013818,0.942318,Aktivitas Arsitektur dan Keinsinyuran; Analisis dan Uji Teknis,5,0.967580,-0.009703,Lengkap
+72,0.845477,0.794146,0.794315,0.973622,0.973025,Penelitian dan Pengembangan Ilmu Pengetahuan,5,0.876117,0.127548,Lengkap
+73,0.969204,0.945524,0.977166,0.993363,0.954442,Periklanan dan Penelitian Pasar,5,0.967940,-0.014762,Lengkap
+74,0.925853,0.953296,0.959196,1.002315,0.979488,"Aktivitas Profesional, Ilmiah, dan Teknis Lainnya",5,0.964030,0.053635,Lengkap
+75,0.726081,0.894243,1.023999,0.949348,0.959906,Aktivitas Kesehatan Hewan,5,0.910715,0.233825,Lengkap
+77,0.973712,0.968923,0.993161,1.009933,1.007889,Aktivitas Penyewaan dan Sewa Guna Usaha Tanpa Hak Opsi,5,0.990724,0.034177,Lengkap
+78,1.046318,0.968842,0.972676,1.010783,0.949300,Aktivitas Ketenagakerjaan,5,0.989584,-0.097018,Lengkap
+79,0.937769,0.961634,0.955324,0.993826,0.955279,"Aktivitas Agen Perjalanan, Penyelenggaraan Tur, dan Jasa Reservasi",5,0.960766,0.017509,Lengkap
+80,1.018434,0.968578,0.986295,1.005098,1.062896,Aktivitas Keamanan dan Penyelidikan,5,1.008260,0.044462,Lengkap
+81,0.943419,0.991590,0.993280,0.992682,0.948283,Aktivitas Jasa untuk Gedung dan Pertamanan,5,0.973851,0.004864,Lengkap
+82,1.010754,0.932710,0.974512,1.005545,0.967009,"Aktivitas Administrasi Kantor, Penunjang Kantor, dan Penunjang Usaha Lainnya",5,0.978106,-0.043745,Lengkap
+85,1.009185,0.936090,0.967571,1.021559,0.954030,Pendidikan,5,0.977687,-0.055154,Lengkap
+86,0.886314,0.936577,0.946513,0.994444,0.943402,Aktivitas Kesehatan Manusia,5,0.941450,0.057088,Lengkap
+87,0.844058,1.175374,,,,Aktivitas Sosial di Dalam Panti,2,,,Tidak lengkap
+88,0.826721,0.936505,,1.002730,,Aktivitas Sosial Tanpa Akomodasi,3,,,Tidak lengkap
+90,0.722352,0.955511,1.026173,0.995434,1.036710,"Kegiatan Kesenian, Hiburan, dan Rekreasi",5,0.947236,0.314357,Lengkap
+91,0.880700,1.223602,0.987017,0.804916,0.981035,"Perpustakaan, Arsip, Museum, dan Kegiatan Kebudayaan Lainnya",5,0.975454,0.100336,Lengkap
+93,0.995603,1.060530,0.999373,1.049354,0.961670,Kegiatan Olahraga dan Rekreasi Lainnya,5,1.013306,-0.033933,Lengkap
+95,0.976416,0.978643,0.959072,0.955932,0.995409,"Reparasi Komputer, Barang Keperluan Pribadi, dan Perlengkapan Rumah Tangga",5,0.973094,0.018993,Lengkap
+96,0.970547,0.993611,0.975179,0.961185,0.989445,Aktivitas Jasa Perorangan Lainnya,5,0.977994,0.018898,Lengkap
+97,1.065363,1.124441,0.933726,0.950050,1.010571,Aktivitas Rumah Tangga sebagai Pemberi Kerja,5,1.016830,-0.054792,Lengkap

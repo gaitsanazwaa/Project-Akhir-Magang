@@ -1,0 +1,18 @@
+﻿nomor,judul_yang_direkomendasikan,file,format
+Tabel 1,Jumlah kegiatan usaha unik per tahun Kota Surabaya,Tabel_01_jumlah_kegiatan_tahunan_kota.csv,CSV
+Tabel 2,Lima kelompok KBLI tertinggi dan terendah berdasarkan jumlah proyek-tahun,Tabel_02_ringkasan_lima_sektor_tertinggi_terendah.csv,CSV
+Tabel 3,Lima kecamatan tertinggi dan terendah berdasarkan jumlah proyek-tahun,Tabel_03_ringkasan_lima_kecamatan_tertinggi_terendah.csv,CSV
+Tabel 4,"Pertumbuhan kegiatan usaha sektoral KBLI 2 digit, YoY dan kumulatif",Tabel_04_pertumbuhan_kegiatan_sektor.csv,CSV
+Tabel 5,"Pertumbuhan kegiatan usaha pada 31 kecamatan, YoY dan kumulatif",Tabel_05_pertumbuhan_kegiatan_kecamatan.csv,CSV
+Tabel 6,Jumlah kombinasi kecamatan-KBLI menurut kategori LQ per tahun,Tabel_06_jumlah_kombinasi_kategori_LQ_tahunan.csv,CSV
+Tabel 7,Lima kelompok KBLI dengan rata-rata LQ tertinggi pada setiap tahun,Tabel_07_lima_sektor_rerata_LQ_tertinggi_tahunan.csv,CSV
+Tabel 8,Lima kecamatan dengan LQ tertinggi untuk lima KBLI terpilih pada 2025,Tabel_08_lima_kecamatan_LQ_tertinggi_sektor_terpilih.csv,CSV
+Tabel 9,Perubahan rata-rata LQ 2021-2025 per kelompok KBLI,Tabel_09_perubahan_rerata_LQ_per_sektor.csv,CSV
+Tabel 10,Klasifikasi gabungan rata-rata LQ dan CAGR 2021-2025 seluruh KBLI,Tabel_10_analisis_gabungan_LQ_dan_CAGR.csv,CSV
+Tabel 11,Jumlah kelompok KBLI pada tiap kategori gabungan,Tabel_11_ringkasan_kategori_gabungan.csv,CSV
+Tabel 12,Kelompok KBLI menonjol di tiap kategori gabungan,Tabel_12_sektor_menonjol_per_kategori.csv,CSV
+Tabel 13,Kombinasi LQ tertinggi pada 2025 beserta jumlah kegiatan aktual,Tabel_13_LQ_tertinggi_dan_jumlah_kegiatan_aktual.csv,CSV
+Tabel 14,Validasi unit hitung kota dibanding agregat kecamatan-KBLI,Tabel_14_validasi_unit_hitung_kota_dan_agregat.csv,CSV
+Tabel 15,"Validasi baris berulang, proyek multikode/lokasi, dan Id Proyek lintas tahun",Tabel_15_validasi_duplikasi_dan_id_lintas_tahun.csv,CSV
+Tabel 16,Perbandingan klasifikasi LQ tersimpan dan panel lengkap dengan unit struktural nol,Tabel_16_perbandingan_kategori_LQ_lama_dan_panel_lengkap.csv,CSV
+Tabel 17,LQ KBLI 52 di Asem Rowo 2021-2025,Tabel_17_LQ_KBLI52_Asem_Rowo.csv,CSV
